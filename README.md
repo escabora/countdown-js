@@ -1,8 +1,10 @@
 # Countdown com Vanilla Js
 
 Plugin baseado no conceito de classe para ser importado como modulo em qualquer projeto que utilize Javascript.  
+[Demo](https://escabora.github.io/countdown-js/)
 
 # Exemplos de Uso
+
 ```javascript
 import Countdown from './countdown.js';
 const tempoParaONatal = new Countdown('24 December 2019 23:59:59 GMT-0300');
